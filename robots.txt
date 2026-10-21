@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://complejo-aires-del-ibera.vercel.app/sitemap.xml
